@@ -1,0 +1,652 @@
+{
+ "UUID": "29b81d06-f6ce-471b-93e9-60fc4465e92d",
+ "MetaData": {
+  "Key": "",
+  "Value": "",
+  "IsValid": false,
+  "Type": 0
+ },
+ "Columns": [
+  {
+   "ID": 0,
+   "Current": 224,
+   "Minimum": 30.81836,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Key"
+  },
+  {
+   "ID": 1,
+   "Current": 406,
+   "Minimum": 43.054688,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Value"
+  },
+  {
+   "ID": 2,
+   "Current": 50.239258,
+   "Minimum": 50.239258,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "IsValid"
+  },
+  {
+   "ID": 3,
+   "Current": 95,
+   "Minimum": 38.249023,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Type"
+  }
+ ],
+ "Type": "root_container",
+ "Children": [
+  {
+   "UUID": "6b1d9e33-f886-45ff-ba50-0702c4702429",
+   "MetaData": {
+    "Key": "ComSpec",
+    "Value": "%SystemRoot%\\system32\\cmd.exe",
+    "IsValid": true,
+    "Type": 2
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "87d6fcab-81bc-4af6-ad15-fcdf70bbc904",
+   "MetaData": {
+    "Key": "DriverData",
+    "Value": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8b5e2736-f789-429c-b37d-cd27918107e1",
+   "MetaData": {
+    "Key": "OS",
+    "Value": "Windows_NT",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ecde3e5c-0214-4605-b7a7-fc7a08850351",
+   "MetaData": {
+    "Key": "Path_container",
+    "Value": "15 items",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "Path_container",
+   "Children": [
+    {
+     "UUID": "e70390cf-d144-46ce-809b-3fb6ffad0774",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\HWAudioDriverLibs",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4dc65024-54d6-4070-8c4b-6fea4d3ff1fd",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\system32",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "a1521945-759f-4e3d-9fd1-403693c99cd9",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ec959f94-a598-4485-a9a5-dc64aff96961",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\Wbem",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "a9f4acd0-72d4-4de5-b069-f8965e03e473",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "67d1dd74-ecad-4e56-b428-3233e6c50e53",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\OpenSSH\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ede55476-5bfb-4ff5-97b1-8a073b80acbc",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\Git\\cmd",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "1213de1d-da4e-4781-b72c-c9c830eaeefa",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c7fc2ffd-0f2b-4c94-b198-5a4986602580",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "17d46a0e-9d31-49e0-bbe3-9e5456cdf4f2",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\JetBrains\\GoLand 2024.1\\bin",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "d91a693b-1781-4e93-9853-b28261a6b0b4",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f864d16a-aba4-4c73-b9fd-62882204e4fd",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "47cae1ba-5375-46e9-8913-f70b657ecf77",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\dotnet\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8e14862a-1128-4e52-99f9-42d7827c356a",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\TDM-GCC-64\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "b879d31b-43a6-435c-b636-5ff391d5ac01",
+     "MetaData": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\Go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "37e06ca0-8521-4be4-8c9a-9e9a453321d9",
+   "MetaData": {
+    "Key": "PATHEXT_container",
+    "Value": "11 items",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "PATHEXT_container",
+   "Children": [
+    {
+     "UUID": "a5ce2f71-34f4-4306-986c-0e8536798ea3",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".COM",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4cab5ed0-5df6-426f-9e64-a373d9bf542b",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".EXE",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "e5f447ad-f0c5-4b05-87c5-873fb498e53f",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".BAT",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "e74cb091-9b43-4dc4-81bb-8425caf5b0c2",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".CMD",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8efe9686-fdae-4501-93cb-6ef2fdffc182",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".VBS",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "b7a99322-e185-4d2a-96a3-cfb8b75c4cdf",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".VBE",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "174a6502-1d3d-469b-8e47-da8e51cda36e",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".JS",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "a55b1ca1-06c9-415f-b4b1-5496f9a5bf7f",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".JSE",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "30841d18-077a-4c7e-b26f-afc8b6c89a0f",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".WSF",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "2a7490e5-7477-4cf7-b723-85b2adf2b868",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".WSH",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "499deb0d-3a89-4356-9593-84e0d07a8004",
+     "MetaData": {
+      "Key": "PATHEXT",
+      "Value": ".MSC",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "4c5be023-6ffc-4e25-83bb-694d377c851d",
+   "MetaData": {
+    "Key": "PROCESSOR_ARCHITECTURE",
+    "Value": "AMD64",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "65c73cc8-a929-49e3-a564-b921ee1f0e7c",
+   "MetaData": {
+    "Key": "PSModulePath_container",
+    "Value": "2 items",
+    "IsValid": true,
+    "Type": 2
+   },
+   "Columns": null,
+   "Type": "PSModulePath_container",
+   "Children": [
+    {
+     "UUID": "28866d29-4b01-4a2d-95e7-67e45bdf60bd",
+     "MetaData": {
+      "Key": "PSModulePath",
+      "Value": "%ProgramFiles%\\WindowsPowerShell\\Modules",
+      "IsValid": true,
+      "Type": 2
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "7d42da00-3f77-4fa2-a11a-31d730b8a9a4",
+     "MetaData": {
+      "Key": "PSModulePath",
+      "Value": "%SystemRoot%\\system32\\WindowsPowerShell\\v1.0\\Modules",
+      "IsValid": true,
+      "Type": 2
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "6f8cb34f-4ab5-46e5-a34f-138f7de60e50",
+   "MetaData": {
+    "Key": "TEMP",
+    "Value": "%SystemRoot%\\TEMP",
+    "IsValid": true,
+    "Type": 2
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "31f8ecc5-0b76-43a1-a223-d2346cdee323",
+   "MetaData": {
+    "Key": "TMP",
+    "Value": "%SystemRoot%\\TEMP",
+    "IsValid": true,
+    "Type": 2
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "37477352-fcff-4b43-bc2c-8c2d9c500f14",
+   "MetaData": {
+    "Key": "USERNAME",
+    "Value": "SYSTEM",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "291963be-1469-45bb-adc8-ed007c7e99ef",
+   "MetaData": {
+    "Key": "windir",
+    "Value": "%SystemRoot%",
+    "IsValid": true,
+    "Type": 2
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8fae8c4a-342b-4b17-be22-69e976e2f1b4",
+   "MetaData": {
+    "Key": "NUMBER_OF_PROCESSORS",
+    "Value": "8",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "72ed42d3-3109-421e-b763-0bdcdb0a1aab",
+   "MetaData": {
+    "Key": "PROCESSOR_LEVEL",
+    "Value": "6",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a426c688-b69c-43bd-9213-de02c19e2593",
+   "MetaData": {
+    "Key": "PROCESSOR_IDENTIFIER",
+    "Value": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "64c9e42d-d8a4-4507-ad4c-2c8f1ddcd957",
+   "MetaData": {
+    "Key": "PROCESSOR_REVISION",
+    "Value": "8c01",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e3266e38-081f-462c-9b91-dacd62083b02",
+   "MetaData": {
+    "Key": "ANDROID_HOME",
+    "Value": "D:\\sdk",
+    "IsValid": false,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "7d22d303-5973-4360-b6c5-83af042c617e",
+   "MetaData": {
+    "Key": "ANDROID_SDK_ROOT",
+    "Value": "D:\\sdk",
+    "IsValid": false,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ed40c899-12e3-4d0f-bb57-e9fef5363444",
+   "MetaData": {
+    "Key": "ZES_ENABLE_SYSMAN",
+    "Value": "1",
+    "IsValid": true,
+    "Type": 1
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  }
+ ],
+ "PreventUserColumnResize": false
+}
