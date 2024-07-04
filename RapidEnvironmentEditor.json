@@ -1,5 +1,5 @@
 {
- "id": "aac58d14-85c4-45a0-a6fd-e30f15909889",
+ "id": "c4060256-380d-45eb-aecf-68c541505930",
  "type": "root_container",
  "Data": {
   "Key": "",
@@ -9,7 +9,7 @@
  },
  "children": [
   {
-   "id": "c566f302-5d48-48cd-9542-bf8564008619",
+   "id": "a566f7ea-0ad2-403d-8759-2c89a4fa5604",
    "type": "",
    "Data": {
     "Key": "ANDROID_HOME",
@@ -21,7 +21,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "81391954-8938-4bf6-aedc-c54bdb20fb3f",
+   "id": "2bc1586b-11a4-43dd-908f-92a5d2ca0ef5",
    "type": "",
    "Data": {
     "Key": "ANDROID_SDK_ROOT",
@@ -33,7 +33,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b188210d-b222-4060-9c53-7f1cc075adb1",
+   "id": "36616b5e-cd5b-4b36-b696-758061966115",
    "type": "",
    "Data": {
     "Key": "ComSpec",
@@ -45,7 +45,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5a0afba6-355a-4cc3-b2d8-827f37be2e72",
+   "id": "fde6746a-a2e1-48d6-87d4-b166763610fe",
    "type": "",
    "Data": {
     "Key": "DriverData",
@@ -57,7 +57,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "4d571ee1-bfe9-43db-ba48-2c2b5a0bd058",
+   "id": "ea18a0b6-275e-4502-a9d8-e0c089db6742",
    "type": "",
    "Data": {
     "Key": "NUMBER_OF_PROCESSORS",
@@ -69,7 +69,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1265ac02-b867-4ddb-b1ac-6a3cbcb43cca",
+   "id": "b3035bc5-e528-4674-990f-faa77caefa84",
    "type": "",
    "Data": {
     "Key": "OS",
@@ -81,21 +81,45 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "e8e6de7d-8d9a-4700-b3b9-7adf397fac97",
+   "id": "1ba7f651-c1cd-4225-8b7c-60236b2f592a",
    "type": "Path_container",
    "Data": {
-    "Key": "Path_container",
-    "Value": "19 items",
-    "IsValid": true,
+    "Key": "Path (22)",
+    "Value": "",
+    "IsValid": false,
     "Type": 1
    },
    "children": [
     {
-     "id": "936d84df-5f29-4f17-a490-7fbab92ec339",
+     "id": "b2522eb7-f2f9-4059-868f-4ca898f8d971",
      "type": "",
      "Data": {
       "Key": "Path",
-      "Value": "C:\\Windows\\System32\\HWAudioDriverLibs",
+      "Value": "",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fa9be611-a02d-43ed-bbc7-4b437b3b15cd",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "534a04c1-61f4-4c4a-afeb-acaacbb283d1",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\",
       "IsValid": true,
       "Type": 1
      },
@@ -103,67 +127,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "408eec77-9256-401f-b9bf-0459aff2d8a8",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Windows\\system32",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "75379d20-6180-4df9-9076-ad01e7f993d2",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Windows",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "8a9a30e2-7903-4cf2-966a-d806cfc3be15",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Windows\\System32\\Wbem",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "3708ceef-8772-4c54-ba95-338d7d924ca5",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "31ee1633-9776-454f-b55a-fc1885ffe48e",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Windows\\System32\\OpenSSH\\",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "b39d21d2-93fb-44b6-b5f7-14afe3d32a69",
+     "id": "544fbb87-baf9-4b41-a388-69858c7ef1ce",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -175,115 +139,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "de96b0e9-d054-43f4-889e-1d342107b0df",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "cd38e7f3-6cc2-476d-92be-a079d263f56e",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Program Files\\JetBrains\\GoLand 2024.1.1\\bin",
-      "IsValid": false,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "c20e3e3c-4933-4651-b4c0-5eba7bb4a5fc",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "",
-      "IsValid": false,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "999e4260-cf8c-4e88-8336-eff240a7106e",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Users\\Admin\\go\\bin",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "4e961268-585f-4629-8035-5ee8edebdd78",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "D:\\desk\\go\\bin",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "38cd6110-d123-45b5-8697-4e720f31738b",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "",
-      "IsValid": false,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "50c0f77b-129d-4090-9604-7b7ab30cb2d3",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Program Files\\JetBrains\\RustRover 2024.1\\bin",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "1579fc07-672f-49f8-a8d7-520628a8103e",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Program Files\\dotnet\\",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "80f2fd0b-d5bd-463e-9c17-025fa5967aa3",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\TDM-GCC-64\\bin",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "4b04c98a-a01a-4887-8c4c-3bf9b63af2ba",
+     "id": "64732eb6-da53-410b-864d-f59efe416a04",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -295,7 +151,31 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "c9206fc3-7342-4cb2-84ef-31e250a72a72",
+     "id": "d11dafb1-3c2d-4e84-8f7f-ab2cbce82d88",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\JetBrains\\GoLand 2024.1.1\\bin",
+      "IsValid": false,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fafc5e23-5400-4171-bc48-42d5da46181e",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Program Files\\JetBrains\\RustRover 2024.1\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "bbca057f-da08-4430-a272-85cc692a0442",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -307,11 +187,167 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "909a0924-883a-405f-acbb-55392def9459",
+     "id": "d3e45526-3423-4b5f-9021-5ccc873f1ec1",
      "type": "",
      "Data": {
       "Key": "Path",
-      "Value": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\",
+      "Value": "C:\\Program Files\\dotnet\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6b5b5cc4-5421-4c8b-b8b5-62fc95eb3ce6",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\TDM-GCC-64\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "83673969-cff5-4097-ae00-e7c29eef5758",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fd2579a2-f0a7-478b-9760-a43ac64a748f",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "085d0cfd-e348-4c9f-9b24-ef8ad1fb37be",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "ecd2d443-02b7-4816-b5d1-4689bad6d5ad",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "3cb3d628-e457-49f8-9893-9a7f975e3007",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d6f0caa7-56bb-4bc5-9fd6-ff7ea4c85626",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a7990235-1c08-4d92-b325-04a86487e570",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\HWAudioDriverLibs",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "f13003dd-49d3-45f0-a85b-61c210500255",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\OpenSSH\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "c993ca50-a869-419e-8296-4c7573d8e166",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\Wbem",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fae49180-633a-4d45-983f-495dcf2bbec3",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "91931ac2-d18c-40aa-a80a-8f3465e0fe2a",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Windows\\system32",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "b9215725-8287-4db8-a966-c61ac9d80b0e",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "D:\\desk\\go\\bin",
       "IsValid": true,
       "Type": 1
      },
@@ -323,17 +359,17 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "29260ed8-8b16-4c45-a4be-53e975fe5951",
+   "id": "f201756a-ebee-4628-aa5f-0236cc7dda97",
    "type": "PATHEXT_container",
    "Data": {
-    "Key": "PATHEXT_container",
-    "Value": "11 items",
-    "IsValid": true,
+    "Key": "PATHEXT (11)",
+    "Value": "",
+    "IsValid": false,
     "Type": 1
    },
    "children": [
     {
-     "id": "35989f61-23f3-4b50-acdc-8ce3be3b1f4a",
+     "id": "aba114ef-d070-4f6c-8011-390071475ba6",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -345,7 +381,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "72b868cf-e34b-49a3-85e5-b20a8b6e2674",
+     "id": "834c0426-8f4f-4a72-83da-1b85810ceff8",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -357,7 +393,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "960c63ec-9063-455c-980b-61652d33035f",
+     "id": "833723b0-82e0-4415-8921-55b3861efa96",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -369,7 +405,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "72b99197-1732-4ed7-8092-6c1c37d91a61",
+     "id": "0c40983a-7929-44d3-be5b-5e890a46e860",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -381,7 +417,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "72e7dd24-3c0a-4b55-a7d6-ccabf1ffd0fa",
+     "id": "e3545e97-895e-45a2-ac4c-353e47e7801f",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -393,7 +429,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "fccb99f6-d139-40d9-ad05-b8055a6f0440",
+     "id": "59fd9fba-e73e-4085-bcce-9a0ead17d207",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -405,7 +441,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "6cf3c20f-00f4-4f3a-8e19-ea292e0f34d0",
+     "id": "c63c6e8e-0389-480d-b763-9cb28610e428",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -417,7 +453,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "1f8ddc16-ed57-42f7-8c49-c4ff380031ff",
+     "id": "adba56b6-6c2a-4a0a-8ede-9f772cabc1df",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -429,7 +465,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "14575ccc-cf51-4617-9125-0bc3a7ee1a0c",
+     "id": "8d234445-82a6-4b9d-b04d-254a5796ae67",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -441,7 +477,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "435dbaed-dbda-4bea-8cb6-c17422ff4de2",
+     "id": "e9db6496-671f-4ce2-8c47-2b64e2704fa4",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -453,7 +489,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "331616ad-07c2-422c-af68-15137e72a04e",
+     "id": "f90407f7-c5ff-4966-8b10-f0cb40ec900c",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -469,7 +505,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "3835b3c8-29b9-4a74-b1e8-1989bef23b1e",
+   "id": "17b26074-bab1-42c0-8b26-ce426339310c",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_ARCHITECTURE",
@@ -481,7 +517,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b31528e4-dfb1-4f05-8bc9-6c6194a11211",
+   "id": "e7bdae4c-935e-49ab-b30f-9ee3975ce5b8",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_IDENTIFIER",
@@ -493,7 +529,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "9e4f7894-8256-4553-b26f-40c01190c8e6",
+   "id": "290057db-c4c8-4082-b985-9aef95743daf",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_LEVEL",
@@ -505,7 +541,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "22fa5a93-ec5a-41c4-80d2-b09edf56fc35",
+   "id": "0472a322-645b-457e-b957-95f7dedd0f87",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_REVISION",
@@ -517,17 +553,17 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "5ff216b5-5641-4d30-a34a-ab15f87dff2b",
+   "id": "5e334a75-34e1-451e-b94b-bfdc3c8ee0c8",
    "type": "PSModulePath_container",
    "Data": {
-    "Key": "PSModulePath_container",
-    "Value": "2 items",
-    "IsValid": true,
+    "Key": "PSModulePath (2)",
+    "Value": "",
+    "IsValid": false,
     "Type": 2
    },
    "children": [
     {
-     "id": "7ee8ab26-be72-4d7c-ab78-0bfcdfbe15bf",
+     "id": "e321dc9d-1ef9-4a77-839f-3bffa3cd2a04",
      "type": "",
      "Data": {
       "Key": "PSModulePath",
@@ -539,7 +575,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "9a1454c0-f8e4-4060-844d-5b6c8fbb98e6",
+     "id": "918bb7a1-70a6-4699-b659-512d477f1441",
      "type": "",
      "Data": {
       "Key": "PSModulePath",
@@ -555,7 +591,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "10fc1855-44aa-4c77-9178-daa7cc3fd999",
+   "id": "d66c1d35-eca6-4e6b-bef1-7f06687e274a",
    "type": "",
    "Data": {
     "Key": "TEMP",
@@ -567,7 +603,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "ea443a81-f631-420e-8f7f-83eea9277bde",
+   "id": "fde34713-6ffe-4922-b9a9-854ca955aec5",
    "type": "",
    "Data": {
     "Key": "TMP",
@@ -579,7 +615,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "08346b1e-f6f7-40c9-9131-182ac4f9aa8b",
+   "id": "ecf5f1a8-1767-4ce7-8aee-6f836882474c",
    "type": "",
    "Data": {
     "Key": "USERNAME",
@@ -591,7 +627,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "a1199d35-fd63-4f12-9b7c-4837b6f44276",
+   "id": "6e827948-7481-4450-a3d7-08e6511e2443",
    "type": "",
    "Data": {
     "Key": "windir",
@@ -603,7 +639,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "d6f5cbf3-a72a-4a97-bc94-a547e215fa2f",
+   "id": "42ca1826-40c9-4d8d-9463-359e03b1140e",
    "type": "",
    "Data": {
     "Key": "ZES_ENABLE_SYSMAN",
