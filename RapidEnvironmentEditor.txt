@@ -8,7 +8,7 @@
   ├───DriverData                     │C:\Windows\System32\Drivers\DriverData                              │✓       
   ├───NUMBER_OF_PROCESSORS           │8                                                                   │✓       
   ├───OS                             │Windows_NT                                                          │✓       
-  ├───Path (22)                      │                                                                    │✗       
+  ├───Path (25)                      │                                                                    │✗       
   │   ├───Path                       │                                                                    │✗       
   │   ├───Path                       │                                                                    │✗       
   │   ├───Path                       │C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\ │✓       
@@ -20,6 +20,9 @@
   │   ├───Path                       │C:\Program Files\dotnet\                                            │✓       
   │   ├───Path                       │C:\TDM-GCC-64\bin                                                   │✓       
   │   ├───Path                       │C:\Users\Admin\AppData\Local\Microsoft\WindowsApps                  │✓       
+  │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
+  │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
+  │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
