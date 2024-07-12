@@ -1,6 +1,6 @@
 module github.com/ddkwork/envDemo
 
-go 1.22.4
+go 1.22.5
 
 require github.com/richardwilkes/unison v0.71.0
 
