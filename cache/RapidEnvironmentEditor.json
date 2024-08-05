@@ -1,5 +1,5 @@
 {
- "id": "61ff07eb-663f-40b1-a4df-8328f03a99a3",
+ "id": "9df0910f-e99f-41c1-884c-0a87005d7c96",
  "type": "root_container",
  "Data": {
   "Key": "",
@@ -9,7 +9,7 @@
  },
  "children": [
   {
-   "id": "b6e5e83a-0b8b-4424-ae34-bcb0d3db3469",
+   "id": "8e5c020a-0cd3-4753-9502-2a9fdd10e662",
    "type": "",
    "Data": {
     "Key": "ANDROID_HOME",
@@ -21,7 +21,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "c885ec03-481b-4a86-8461-5111f64c2330",
+   "id": "9072382f-8a0f-405a-aa5b-07f4f8aeaf83",
    "type": "",
    "Data": {
     "Key": "ANDROID_SDK_ROOT",
@@ -33,7 +33,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b5238861-7ba2-4409-a39c-ed010766ebcf",
+   "id": "eb8e6e53-60a9-4c23-b30f-b2e291b53e90",
    "type": "",
    "Data": {
     "Key": "ComSpec",
@@ -45,7 +45,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "34382cdb-d92e-4fc1-8249-97d290fdb7fb",
+   "id": "499f64c2-b6ed-4906-aba7-ada4d37d0cd9",
    "type": "",
    "Data": {
     "Key": "DriverData",
@@ -57,7 +57,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "13c4cac9-25fd-4eb5-baa3-70f8ea2ba37c",
+   "id": "e850fb65-400b-4be1-b725-6179e0e192d5",
    "type": "",
    "Data": {
     "Key": "NUMBER_OF_PROCESSORS",
@@ -69,7 +69,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "bea855e1-61e1-4ea9-9964-1bde38e7abb1",
+   "id": "c22af7ff-32ed-41b3-87cf-703e89b97ce0",
    "type": "",
    "Data": {
     "Key": "OS",
@@ -81,41 +81,17 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "8362cac9-7735-4258-a171-0ff6aaf22382",
+   "id": "f11d6b96-308e-47ce-8f31-3891147dbf68",
    "type": "Path_container",
    "Data": {
-    "Key": "Path (22)",
+    "Key": "Path (19)",
     "Value": "",
     "IsValid": false,
     "Type": 1
    },
    "children": [
     {
-     "id": "eb0a537c-c2e7-4b72-8600-556c7e1c7c40",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "",
-      "IsValid": false,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "32d1199b-aafe-48ee-a42f-4187c3954f14",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "",
-      "IsValid": false,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "182ddfb6-326c-4908-8224-58727fb2e469",
+     "id": "9f18b0eb-769f-4f05-b350-a36af412187c",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -127,7 +103,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "54c7fecd-edfc-4162-9ad0-445433bc89fe",
+     "id": "a97a0b9b-2797-49f1-90d2-0e29e7bf35ed",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -139,19 +115,19 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "45bf2f53-7d32-4476-82af-31521a0b9136",
+     "id": "881024dc-c520-48a0-8249-dc6a053cbdb7",
      "type": "",
      "Data": {
       "Key": "Path",
-      "Value": "C:\\Program Files\\JetBrains\\GoLand 2024.1.1\\bin",
-      "IsValid": false,
+      "Value": "C:\\Program Files\\Go\\bin",
+      "IsValid": true,
       "Type": 1
      },
      "Columns": null,
      "PreventUserColumnResize": false
     },
     {
-     "id": "bed909f9-bca1-4343-b052-591c79ebebb7",
+     "id": "a533b003-2d26-4a2c-9c02-f6809a3905d5",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -163,7 +139,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "5a168b1b-54e0-4faa-9147-7b1e85bcf9e2",
+     "id": "263ca8ad-592d-4a71-91f3-985c42a079e7",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -175,7 +151,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "74adba9f-ecd7-484b-92c1-db73bd516994",
+     "id": "25f29fa1-64ff-4fc8-b95e-43fa5f881d24",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -187,7 +163,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "70ccf3e7-c2e4-4814-bca2-ae01df555b48",
+     "id": "6e6603e3-ff4b-4699-b58f-77b1bf789403",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -199,19 +175,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4ad0bbb4-1b25-4f20-a08a-3e5881d869ec",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Users\\Admin\\AppData\\Local\\Microsoft\\WindowsApps",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "c7041d30-99d7-44da-8aae-1b897d1eca4a",
+     "id": "8febaa80-de3e-43bc-8960-bb7b1888b810",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -223,7 +187,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "f9473a5e-e06f-42e5-939d-a199476b2ad1",
+     "id": "ecbafe71-cae7-4d98-bcfa-e727f6ed8254",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -235,7 +199,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "647e8898-c6b0-419f-a145-3f2d95f224a3",
+     "id": "94cba959-2b7c-4268-a270-aba09c59919c",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -247,7 +211,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "257966fc-6e21-4cd1-86b8-6bba42105002",
+     "id": "cd209169-5c33-4409-b258-cd9cba057235",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -259,7 +223,19 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "715245b1-d0c2-4381-86c3-5342d983985b",
+     "id": "dc75c9c5-a6d6-4b90-8fc8-92561d446427",
+     "type": "",
+     "Data": {
+      "Key": "Path",
+      "Value": "C:\\Users\\Admin\\go\\bin",
+      "IsValid": true,
+      "Type": 1
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d7d00a11-7a6c-4369-80d4-df0d50cfa6f5",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -271,7 +247,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "0edc1985-676e-4f84-abfc-6baddc032eb6",
+     "id": "7014cbcf-9a6a-4ebd-a4ea-28bd1f8b4ef9",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -283,7 +259,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "e72b94a7-b81c-4112-8674-a145cd187ab9",
+     "id": "8f004ed1-d70c-44a6-9345-58fff377b947",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -295,7 +271,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b3f6ec24-a55a-4851-95de-e3e492973579",
+     "id": "bc90c6dd-5be4-414c-923e-c7e8af4c1edb",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -307,7 +283,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "5a3daba2-2378-4c7a-8558-4c4661e7f04a",
+     "id": "84f921a9-dc5d-4fa4-bcd0-d370192ceca3",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -319,7 +295,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "a39d70f1-6661-495c-acd5-d637d7e529f2",
+     "id": "0598032c-5173-4768-a5ff-b7374a6e14b7",
      "type": "",
      "Data": {
       "Key": "Path",
@@ -331,24 +307,12 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "429e25c4-01c7-4b3f-8889-6d206f8971dd",
+     "id": "d6f81b93-e2f7-4f6a-9e1d-a74e605a61c4",
      "type": "",
      "Data": {
       "Key": "Path",
       "Value": "D:\\desk\\go\\bin",
-      "IsValid": true,
-      "Type": 1
-     },
-     "Columns": null,
-     "PreventUserColumnResize": false
-    },
-    {
-     "id": "b675d44e-795c-4943-ac46-7ef8d6a1a814",
-     "type": "",
-     "Data": {
-      "Key": "Path",
-      "Value": "C:\\Program Files\\Go\\bin",
-      "IsValid": true,
+      "IsValid": false,
       "Type": 1
      },
      "Columns": null,
@@ -359,7 +323,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "f4c58251-33f2-478f-a2b1-5d19a638af04",
+   "id": "1e43ff59-3b1f-4d81-8915-669398eb08ab",
    "type": "PATHEXT_container",
    "Data": {
     "Key": "PATHEXT (11)",
@@ -369,7 +333,7 @@
    },
    "children": [
     {
-     "id": "1a6c583b-1db6-44ca-a67a-e9aac58d95dc",
+     "id": "8c5e667b-f140-4b50-9619-17c0d9debdf1",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -381,7 +345,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "1fe044e8-fd02-4e03-b0d3-500e75c81df5",
+     "id": "a0532ee6-8eb5-48c3-960e-900d1b28b056",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -393,7 +357,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "d52fa916-3d39-4bbc-8888-0f3f41ec754a",
+     "id": "f0941196-cb2d-4782-97e8-386eb27d3986",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -405,7 +369,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b9588c1f-98b4-443b-8657-f5c25e585eec",
+     "id": "0613ae52-826a-4038-a247-2f26e99d7283",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -417,7 +381,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "32bcd181-8905-4e24-b8d1-57a958f465b2",
+     "id": "cbf6fdb7-a71d-44e1-9e5f-7427bc2e4691",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -429,7 +393,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "93376fd4-9362-49ae-9cda-ced108ea345a",
+     "id": "3accd95b-7a38-4f88-9ada-0de3c06dd359",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -441,7 +405,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4b045595-b505-4858-bcab-6d17ebe81d1e",
+     "id": "5d470f6b-5277-49d7-afbd-e304dc8446df",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -453,7 +417,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "efd1aa88-4c37-46c8-9bb6-4654c5344d30",
+     "id": "27c6dfc5-6e2b-4832-938a-f469212a6012",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -465,7 +429,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "709497a2-e3ff-443e-acef-ee6b42474c0b",
+     "id": "7ca9b4d9-eaf7-4aac-a860-7d3f1671861f",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -477,7 +441,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "b546cebe-ffc7-4637-9529-cf92b2f91b52",
+     "id": "1a9e8195-d2cf-47f5-8a1a-2aeb79448eda",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -489,7 +453,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "047613f3-9bda-4b96-b965-2d1534dc4f39",
+     "id": "224e1ede-97e5-4337-8d86-3fcb998e8187",
      "type": "",
      "Data": {
       "Key": "PATHEXT",
@@ -505,7 +469,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "2fb77907-9e11-4168-87c7-0c1cfb4fd9e6",
+   "id": "330c053a-c367-49f5-8759-1abec3641aaf",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_ARCHITECTURE",
@@ -517,7 +481,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "c3dfb2da-7fbf-43c9-b4fc-63988b78a848",
+   "id": "88e88e07-6f2c-43c1-847f-e7809e2ed149",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_IDENTIFIER",
@@ -529,7 +493,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "414c0e11-9f2d-4bc0-82c3-5d18891043b9",
+   "id": "55ff84ea-50ff-4b0e-bab7-0e382336a60c",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_LEVEL",
@@ -541,7 +505,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "fc72902e-7881-4137-9714-18f3484fd957",
+   "id": "4819f419-ca7f-4465-95ac-1d1c0b73b329",
    "type": "",
    "Data": {
     "Key": "PROCESSOR_REVISION",
@@ -553,7 +517,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "1b8be691-b2aa-4db5-b0d6-662d286f8f46",
+   "id": "c8c0b61b-4346-4df3-aff8-a21b30255e8a",
    "type": "PSModulePath_container",
    "Data": {
     "Key": "PSModulePath (2)",
@@ -563,7 +527,7 @@
    },
    "children": [
     {
-     "id": "363ad457-92e6-4266-9061-aabe192cd979",
+     "id": "bf21ca3f-722a-45bc-847d-922b25a2efed",
      "type": "",
      "Data": {
       "Key": "PSModulePath",
@@ -575,7 +539,7 @@
      "PreventUserColumnResize": false
     },
     {
-     "id": "4b4433fb-80f2-4766-bf99-090f9ae3f5a3",
+     "id": "0bd1fa05-bc9b-4019-a76f-2f89066811d3",
      "type": "",
      "Data": {
       "Key": "PSModulePath",
@@ -591,7 +555,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "8aa3800e-882a-4f12-a4bf-40034ee0efa5",
+   "id": "fd00a82f-297b-4e1b-ad71-15537ff7e92b",
    "type": "",
    "Data": {
     "Key": "TEMP",
@@ -603,7 +567,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "74c9324a-0129-4cb0-a9e8-cc8d90490cda",
+   "id": "f4123ce0-d20c-4788-bb36-0e01516b01a5",
    "type": "",
    "Data": {
     "Key": "TMP",
@@ -615,7 +579,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "b74f3957-c8a7-4e0f-bdbb-d48a2fe08bf6",
+   "id": "937c7976-c503-47ad-9a96-4f515a486585",
    "type": "",
    "Data": {
     "Key": "USERNAME",
@@ -627,7 +591,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "bce9ecec-4516-40bc-bbb3-9d8a6b948686",
+   "id": "ed777a2a-d4fa-4d0c-ad49-3bdf8419cd04",
    "type": "",
    "Data": {
     "Key": "windir",
@@ -639,7 +603,7 @@
    "PreventUserColumnResize": false
   },
   {
-   "id": "363cc101-4b8e-4f7f-a280-ee02c43803ac",
+   "id": "ba6d7f89-e760-427a-aed6-6628892d441a",
    "type": "",
    "Data": {
     "Key": "ZES_ENABLE_SYSMAN",

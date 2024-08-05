@@ -8,17 +8,15 @@
   ├───DriverData                     │C:\Windows\System32\Drivers\DriverData                              │✓       
   ├───NUMBER_OF_PROCESSORS           │8                                                                   │✓       
   ├───OS                             │Windows_NT                                                          │✓       
-  ├───Path (22)                      │                                                                    │✗       
-  │   ├───Path                       │                                                                    │✗       
-  │   ├───Path                       │                                                                    │✗       
+  ├───Path (19)                      │                                                                    │✗       
   │   ├───Path                       │C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\ │✓       
   │   ├───Path                       │C:\Program Files\Git\cmd                                            │✓       
-  │   ├───Path                       │C:\Program Files\JetBrains\GoLand 2024.1.1\bin                      │✗       
+  │   ├───Path                       │C:\Program Files\Go\bin                                             │✓       
   │   ├───Path                       │C:\Program Files\JetBrains\RustRover 2024.1\bin                     │✓       
   │   ├───Path                       │C:\Program Files\Microsoft SQL Server\150\Tools\Binn\               │✓       
   │   ├───Path                       │C:\Program Files\dotnet\                                            │✓       
   │   ├───Path                       │C:\TDM-GCC-64\bin                                                   │✓       
-  │   ├───Path                       │C:\Users\Admin\AppData\Local\Microsoft\WindowsApps                  │✓       
+  │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
   │   ├───Path                       │C:\Users\Admin\go\bin                                               │✓       
@@ -29,8 +27,7 @@
   │   ├───Path                       │C:\Windows\System32\Wbem                                            │✓       
   │   ├───Path                       │C:\Windows\System32\WindowsPowerShell\v1.0\                         │✓       
   │   ├───Path                       │C:\Windows\system32                                                 │✓       
-  │   ├───Path                       │D:\desk\go\bin                                                      │✓       
-  │   └───Path                       │C:\Program Files\Go\bin                                             │✓       
+  │   └───Path                       │D:\desk\go\bin                                                      │✗       
   ├───PATHEXT (11)                   │                                                                    │✗       
   │   ├───PATHEXT                    │.COM                                                                │✓       
   │   ├───PATHEXT                    │.EXE                                                                │✓       
